@@ -19,10 +19,7 @@ filters:
       - /\bchore(\(.*\))?:/i
   - label: 1조
     regexs:
-      - /박응수2/
-  - label: 박응수
+      - /박응수/
+  - label: 2조
     regexs:
-      - /\b박응수(\(.*\))?:/i
-  - label: 11조
-    regexs:
-      - /박응수|김르탄|고로케/
+      - /홍길동|김철수|고로케/
